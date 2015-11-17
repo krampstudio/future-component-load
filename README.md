@@ -1,2 +1,2 @@
-# future-sample
-Sample Future.js application
+# <f-load>
+
